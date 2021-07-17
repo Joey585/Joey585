@@ -25,6 +25,7 @@ I am looking to turn that around.
 <hr>
 <h3>Extras</h3>
 <ul>
-<li>Spotify Playlist <iframe src="https://open.spotify.com/embed/playlist/1gRwUNcR4tet3k6kMpSMfr" title="Spotify Playlist"></iframe></li>
+<li><a href=https://open.spotify.com/playlist/1gRwUNcR4tet3k6kMpSMfr?si=262310aa8a954db3">Spotify Playlist</a></li>
+
 <li>Discord: <strong>Joey585#0585</strong></li>
 </ul>
