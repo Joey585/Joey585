@@ -1,11 +1,12 @@
 Hello, my name is Joey.
 
-I am 16, Junior in highschool.
+I am 17, Senior in highschool.
 
-I've been programming for about 2 years, I may be a beginner year-wise but I have a lot of progress on learning Java, Javascript, front-end languages, Python. 
+I've been programming for about 3 years, I may be a beginner year-wise but I have a lot of progress on learning Java, Javascript, front-end languages, Python. 
 I am currently developing for VoidedSky, a minecraft server with big dreams.
 I want to go to college for Computer Science.
 I am a freelancer at DevRoom, a place where you can order discord bots, minecraft plugins, minecraft builds, 3d models, etc.
+I am a Bot Developer for Build The Earth, a 1:1 scale Minecraft map of Earth
 
 I bought a Flipper Zero and an arduino starter kit to learn more about electrical engineering, as it is a very interesting subject.
 
