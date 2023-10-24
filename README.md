@@ -2,13 +2,14 @@ Hello, my name is Joey.
 
 I am 17, Senior in highschool.
 
-I've been programming for about 3 years, I may be a beginner year-wise but I have a lot of progress on learning Java, Javascript, front-end languages, Python. 
-I am currently developing for VoidedSky, a minecraft server with big dreams.
-I want to go to college for Computer Science.
-I am a freelancer at DevRoom, a place where you can order discord bots, minecraft plugins, minecraft builds, 3d models, etc.
-I am a Bot Developer for Build The Earth, a 1:1 scale Minecraft map of Earth
+I am profecient in Java, JavaScript, Python, HTML, CSS, TypeScript, Swift
+I am working on my skills with C#, Brainf*ck, Assembely, C, PHP
 
-I bought a Flipper Zero and an arduino starter kit to learn more about electrical engineering, as it is a very interesting subject.
+The frameworks I most commonly use are: express and discordjs
+I am currently working on ReactJS to create dynamic websites. 
 
-You can contact me on joey585official@gmail.com for any buisness related opportunities <i>Just in case ;)</i>
-Or if you wanna chat, hit me up on discord: Joey585#0585
+I most commonly use MongoDB for database needs but I am quite familar with SQL. 
+
+I am interested in System Administration, Cybersecurity, Electrical Engineering, and Networking. 
+
+You can contact me with <a href="mailto:joeyliebtp@gmail.com">this</a> email. 
