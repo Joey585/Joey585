@@ -2,8 +2,9 @@ Hello, my name is Joey.
 
 I am 17, Senior in highschool.
 
-I am profecient in Java, JavaScript, Python, HTML, CSS, TypeScript, Swift\n
-I am working on my skills with C#, Brainf*ck, Assembely, C, PHP
+I am profecient in Java, JavaScript, Python, HTML, CSS, TypeScript, Swift
+
+However I am still working on my skills with C#, Brainf*ck, Assembely, C, PHP
 
 The frameworks I most commonly use are: express and discordjs
 I am currently working on ReactJS to create dynamic websites. 
